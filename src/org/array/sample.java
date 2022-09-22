@@ -13,7 +13,7 @@ public class sample {
 	
 	int length = a.length;
 	System.out.println(length);
-	
+	System.out.println("*****************");
 	System.out.println("*****************");
 	
 	System.out.println(a[5]);
