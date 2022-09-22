@@ -15,6 +15,8 @@ public class sample {
 	System.out.println(length);
 	
 	System.out.println("*****************");
+	System.out.println("*****************");
+	System.out.println("*****************");
 	
 	System.out.println(a[5]);
 	System.out.println("********************");
